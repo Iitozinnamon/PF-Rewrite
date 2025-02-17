@@ -2,7 +2,7 @@
 
 Here is a little table ive made of all of the things that are just ideas, implemented or in the works.
 
-Progress to completion: 8%
+Progress to completion: 16%
 
 | Idea                                    | Wont add     | May add       | Experimental                                      | Not implemented yet         | WIP             | Implemented          |
 | :--:                                    | :------:     | :-----:       | :----------:                                      | :------------------------:  | :-:             | :---------:          |
