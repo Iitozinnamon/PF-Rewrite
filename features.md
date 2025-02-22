@@ -2,7 +2,7 @@
 
 Here is a little table ive made of all of the things that are just ideas, implemented or in the works.
 
-Progress to completion: 16%
+Progress to completion: ![Progress](https://progress-bar.xyz/16/?width=512)
 
 | Idea                                    | Wont add     | May add       | Experimental                                      | Not implemented yet         | WIP             | Implemented          |
 | :--:                                    | :------:     | :-----:       | :----------:                                      | :------------------------:  | :-:             | :---------:          |
